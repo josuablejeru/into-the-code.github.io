@@ -25,6 +25,7 @@ twitter_username:
 github_username: josuablejeru
 
 # Build settings
+timezone: Europe/Berlin
 markdown: kramdown
 theme: minima
 plugins:
