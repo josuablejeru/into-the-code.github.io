@@ -7,14 +7,14 @@ tags: [beginners]
 
 ### Improve you CLI workflow with Python
 
-Maybe you remember some comands from documentations like:
+Maybe you remember some commands from documentations like:
 
 ```bash
 brew upgrade && brew update
 ```
 
 Yea, you see right. This command will execute `brew upgrade` and `brew update`
-one after another. But did you know you can do somthing similar to get the same result?
+one after another. But did you know you can do something similar to get the same result?
 
 ```bash
 brew upgrade; brew update
@@ -63,7 +63,7 @@ Maybe you don`t care how your program is ending, so try this instead:
 python script.py; echo "finish"
 ```
 
-The semelicon is also used to execute one command after another, but our semelicon don`t care about the status of the last executed program.
+The semicolumn is also used to execute one command after another, but our semicolumn don`t care about the status of the last executed program.
 
 ## Conclusion
 
@@ -71,4 +71,4 @@ I think at this point the difference should be clear...
 
 Both operators can help you preventing the executions of commands if something went wrong in your execution. Sometimes you need to know how your program has exit and sometimes you wish code get executed anyway... you decide!
 
-_If it was usefull for you please share it with a friend and leave a comment! Thanks!_
+If it was usefull for you please share it with a friend and leave a comment! Thanks!
